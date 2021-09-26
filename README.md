@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hello, friend.
+
+Welcome to my space! My name is Anthony (he/him/his). I've been programming for 15 years, currently working as a software engineer with 7 years of professional experience. I have a passion for technology, tools, and games, and figuring out new ways to combine them.
+
+### Languages, Frameworks, & Experience
+* C# - 12 years
+* Unity3D - 5
+* JavaScript - 3 years
+* Java - 3 years
+* C++ - 1 year
 
 <!--
 **AnthonyKazyaka/AnthonyKazyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
