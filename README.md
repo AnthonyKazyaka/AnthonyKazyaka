@@ -1,6 +1,6 @@
 ## Hello, friend.
 
-Welcome to my space! My name is Anthony (he/him/his). I've been programming for 15 years, currently working as a software engineer with 7 years of professional experience. I have a passion for technology, tools, and games, and figuring out new ways to combine them.
+Welcome to my space! My name is Anthony (he/him/his). I've been programming for 15 years, currently working as a software engineer with 7 years of professional experience. I have a passion for technology, games, and figuring out interesting new ways to combine them.
 
 ### Languages, Frameworks, & Experience
 * C# - 12 years
