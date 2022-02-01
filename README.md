@@ -9,6 +9,8 @@ Welcome to my space! My name is Anthony (he/him/his). I've been programming for 
 * Java - 3 years
 * C++ - 1 year
 
+### Support Me
+If you like the kinds of projects I work on, or have found one of my tools useful, please consider [buying me a coffee ☕](https://www.buymeacoffee.com/anthonykazyaka) so I can spend more time developing them.
 <!--
 **AnthonyKazyaka/AnthonyKazyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
