@@ -1,13 +1,30 @@
 ## Hello, friend.
 
-Welcome to my space! My name is Anthony (he/him/his). I've been programming for 15 years, currently working as a software engineer with 7 years of professional experience. I have a passion for technology, games, and figuring out interesting new ways to combine them.
+Welcome to my space! My name is Anthony (he/him/his). I've been programming for 15 years, currently working as a software engineer with 8 years of professional experience. I have a passion for technology, games, and figuring out interesting new ways to combine them.
 
 ### Languages, Frameworks, & Experience
+*	C#/.NET Framework/.NET Core – 13 years
+*	Linux CLI – 7 years
+*	Unity3D – 7 years
+*	T-SQL – 4 years
+*	HTML/CSS/JavaScript – 3 years
+*	Version Control – Git/TFS/Subversion – 10 years
+*	C++ – 2 years
+
 * C# - 12 years
 * Unity3D - 5
 * JavaScript - 3 years
 * Java - 3 years
 * C++ - 1 year
+
+### Background
+Programming was introduced to me during a high school, and it inspired me to study Computer Science at Michigan State University. While there, I took part in the Game Design Specialization.
+
+Since graduating, I've worked at:
+* General Motors (2014 - 2017)
+* Rocket Mortgage (2017 - Present)
+
+If you'd like to connect with me on LinkedIn, [here is my profile](https://www.linkedin.com/in/anthony-kazyaka-3126657a/).
 
 ### Support Me
 If you like the kinds of projects I work on, or have found one of my tools useful, please consider [buying me a coffee ☕](https://www.buymeacoffee.com/anthonykazyaka) so I can spend more time developing them.
