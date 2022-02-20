@@ -1,6 +1,6 @@
 ## Hello, friend.
 
-Welcome to my space! My name is Anthony (he/him/his). I've been programming for 15 years, currently working as a software engineer with 8 years of professional experience. I've spent the last 5 years of my career honing my craft at Rocket Mortgage. I have a passion for technology, games, and figuring out interesting new ways to combine them.
+Welcome to my space! My name is Anthony (he/him/his). I've been programming for 15 years, currently working as a software engineer with 8 years of professional experience. I've spent the last 5 years of my career honing my skills at Rocket Mortgage. I have a passion for technology, games, and figuring out interesting new ways to combine them.
 
 ### Languages, Frameworks, & Experience
 *	C#/.NET Framework/.NET Core – 13 years
