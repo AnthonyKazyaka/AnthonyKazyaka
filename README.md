@@ -11,12 +11,6 @@ Welcome to my space! My name is Anthony (he/him/his). I've been programming for 
 *	Version Control – Git/TFS/Subversion – 10 years
 *	C++ – 2 years
 
-* C# - 12 years
-* Unity3D - 5
-* JavaScript - 3 years
-* Java - 3 years
-* C++ - 1 year
-
 ### Background
 Programming was introduced to me during a high school, and it inspired me to study Computer Science at Michigan State University. While there, I took part in the Game Design Specialization.
 
