@@ -1,6 +1,6 @@
 ## Hello, friend.
 
-Welcome to my space! My name is Anthony (he/him/his). I've been programming for 15 years, currently working as a software engineer with 8 years of professional experience. I've spent the last 5 years of my career honing my skills at Rocket Mortgage. I have a passion for technology, data, games, and figuring out interesting new ways to combine them.
+Welcome to my space! My name is Anthony (he/him/his). I've been programming for 15 years, currently working as a Senior Software Engineer with 8 years of professional experience. I've spent the last 5 years of my career honing my skills at Rocket Mortgage. I have a passion for technology, data, and games; and experimenting with new ways to combine them.
 
 ### Languages, Frameworks, & Experience
 
@@ -21,7 +21,8 @@ Since graduating, I've worked at:
 | Company | Title | Time |
 |:---:|:---:|:---:|
 | General Motors | IT Systems Engineer | 2014 - 2017 |
-| Rocket Mortgage | Software Engineer | 2017 - Present |
+| Rocket Mortgage | Software Engineer | 2017 - 2022 |
+| Rocket Mortgage | Senior Software Engineer | 2022 - Present |
 
 If you'd like to connect with me on LinkedIn, [here is my profile](https://www.linkedin.com/in/anthony-kazyaka-3126657a/).
 
