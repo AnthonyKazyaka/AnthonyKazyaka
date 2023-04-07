@@ -1,33 +1,37 @@
-## Hello, friend.
+## Hi there! I'm Anthony. 👋
 
-Welcome to my space! My name is Anthony (he/him/his). I've been programming for 15 years, currently working as a Senior Software Engineer with 8 years of professional experience. I've spent the last 5 years of my career honing my skills at Rocket Mortgage. I have a passion for technology, data, and games; and experimenting with new ways to combine them.
+I'm a Senior Software Engineer with a passion for technology, data, and games. With 15 years of programming experience and 9 years in the industry, I love exploring new ways to combine my interests and create innovative solutions.
 
-### Languages, Frameworks, & Experience
+### 🛠️ Skills & Expertise
 
-| Technology | Experience |
-|:---:|:---:|
-| C#/.NET Framework/.NET Core | 13 years |
-|	Linux CLI | 7 years |
-|	Unity3D | 7 years |
-|	T-SQL | 4 years |
-|	HTML/CSS/JavaScript | 3 years |
-|	Version Control - Git/TFS/Subversion | 10 years |
-|	C++ | 2 years|
+| Technology                       | Experience |
+| :------------------------------: | :--------: |
+| C#/.NET Framework/.NET Core      |  14 years  |
+| Linux CLI                        |  7 years   |
+| Unity3D                          |  7 years   |
+| T-SQL                            |  4 years   |
+| HTML/CSS/JavaScript              |  3 years   |
+| Version Control - Git/TFS/SVN    |  10 years  |
+| C++                              |  2 years   |
 
-### Background
-Programming was introduced to me during a high school, and it inspired me to study Computer Science at Michigan State University. While there, I took part in the Game Design Specialization and made fun games with creative and passionate people.
+### 🎓 Background
 
-Since graduating, I've worked at:
-| Company | Title | Time |
-|:---:|:---:|:---:|
-| General Motors | IT Systems Engineer | 2014 - 2017 |
-| Rocket Mortgage | Software Engineer | 2017 - 2022 |
-| Rocket Mortgage | Senior Software Engineer | 2022 - Present |
+My journey with programming began in high school, which led me to pursue a degree in Computer Science at Michigan State University. There, I took part in the Game Design Specialization and collaborated with talented individuals on exciting projects.
 
-If you'd like to connect with me on LinkedIn, [here is my profile](https://www.linkedin.com/in/anthony-kazyaka-3126657a/).
+### 🏢 Professional Experience
 
-### Support Me
-If you like the kinds of projects I work on, or have found one of my tools useful, please consider [buying me a coffee ☕](https://www.buymeacoffee.com/anthonykazyaka) so I can spend more time developing them.
+| Company        | Title                  | Time                |
+| :------------: | :--------------------: | :-----------------: |
+| General Motors | IT Systems Engineer    | 2014 - 2017         |
+| Rocket Mortgage | Software Engineer     | 2017 - 2022         |
+| Rocket Mortgage | Senior Software Engineer | 2022 - Present   |
+
+### 🌐 Connect with me
+- LinkedIn: [Anthony Kazyaka](https://www.linkedin.com/in/anthony-kazyaka-3126657a/)
+
+### ☕ Support Me
+If you enjoy the projects I work on or find one of my tools useful, please consider [buying me a coffee](https://www.buymeacoffee.com/anthonykazyaka) to support my development efforts. Your support is greatly appreciated!
+
 <!--
 **AnthonyKazyaka/AnthonyKazyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
